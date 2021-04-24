@@ -3,4 +3,7 @@
     <!-- Lesson 1 -->
     <string name="lesson1_button">button</string>
     <string name="lesson1_text">text</string>
+    <!-- Lesson 2 -->
+    <string name="lesson2_button">表示</string>
+    <string name="lesson2_edit_hint">入力してください</string>
 </resources>
